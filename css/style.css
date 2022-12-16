@@ -1,0 +1,72 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  background-color: #d81717;
+  /* background-color:#FFFFFF; */
+  height: 54px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 1px #DBDBDB solid;
+}
+
+.header .tag-instagram {
+  width: 250px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .research-field {
+  width: 250px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .options-icons {
+  width: 250px;
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.tag-instagram ion-icon {
+  font-size: 30px;
+}
+
+.tag-instagram .border {
+  height: 22px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px #DBDBDB solid;
+}
+
+.tag-instagram img {
+  width: 103px;
+  height: 29px;
+}
+
+.research-field input {
+  width: 215px;
+  height: 28px;
+  font-size: 12px;
+  font-weight: 400px;
+  text-align: center;
+  border-radius: 3px;
+  border: 1px #DBDBDB solid;
+  color: #979797;
+  padding-left: 20px;
+}
+
+.options-icons {
+  font-size: 30px;
+}
+
+
