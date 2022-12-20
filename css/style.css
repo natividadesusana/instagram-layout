@@ -7,6 +7,11 @@
   margin: 0 auto;
   border-bottom: 1px #DBDBDB solid;
 
+  position: fixed;
+  top: auto;
+  right: 0;
+  z-index: 2;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,9 +68,6 @@
   width: 103px;
   height: 29px;
   margin-top: 5px;
-}
-
-.tag-instagram img {
   cursor: pointer;
 }
 
@@ -89,6 +91,7 @@
 }
 
 .main-content {
+  background-color: #f5f5f5;
   width: 100%;
 }
 
@@ -111,12 +114,18 @@
 }
 
 .stories-menu {
+  background-color: #FFFFFF;
   width: 100%;
   height: 118px;
+  margin-top: 80px;
+  margin-bottom: 24px;
+  border-radius: 3px;
+  border: 1px #DBDBDB solid;
 
   display: flex;
   justify-content: space-around;
   align-items: center;
+  position: relative;
 }
 
 .container-story {
@@ -127,6 +136,17 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+}
+
+.stories-menu ion-icon {
+  width: 26px;
+  height: 26px;
+  background-color: white;
+  border-radius: 100%;
+
+  position: absolute;
+	right: 5px;
+	bottom: 50px;
 }
 
 .container-story div {
@@ -170,8 +190,11 @@
 }
 
 .post {
+  background-color:#FFFFFF;
   width: 100%;
   margin-bottom: 60px;
+  border: 1px #DBDBDB solid;
+  border-radius: 3px;
 
   display: flex;
   flex-direction: column;
@@ -294,6 +317,7 @@ ion-icon:hover {
 .side-bar {
   width: 100%; 
   margin-left: 28px;
+  margin-top: 40px;
 
   display: flex;
   flex-direction: column;
@@ -303,7 +327,7 @@ ion-icon:hover {
 
 .side-bar-container {
   width: 293px;
-  margin-top: 20px;
+  margin-top: 65px;
 }
 
 .container-1 {
@@ -350,7 +374,7 @@ ion-icon:hover {
   width: 100%;
   height: 15px;
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 
   display: flex;
   justify-content: space-between;
@@ -379,10 +403,11 @@ ion-icon:hover {
   font-size: 12px;
   line-height: 14px;
   color: #262626;
-
+ 
   display: flex;
   justify-content: right;
   align-items: center;
+  cursor: pointer;
 }
 
 .third-session {
@@ -419,6 +444,7 @@ ion-icon:hover {
 .p-1 {
   width: 126px;
   height: 14px;
+  margin-bottom: 5px;
 
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -457,7 +483,7 @@ ion-icon:hover {
   font-weight: 500;
   font-size: 12px;
   line-height: 14px;
-  color: #8e8e8e;
+  color: #139EF2;
 }
 
 .information {
