@@ -129,9 +129,10 @@
   margin-bottom: 24px;
   border-radius: 3px;
   border: 1px #dbdbdb solid;
+  overflow: hidden;
 
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   position: relative;
 }
