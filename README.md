@@ -1,6 +1,6 @@
 # Project developed for Bootcamp Driven Education
 
-## Globo.com main page layout with html and css.
+## Instagram static page layout with html and css.
 
 #### Requirements for the project:
 
