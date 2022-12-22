@@ -20,3 +20,24 @@
      - [ ] There should be, in *desktop* mode, a little arrow in the right corner of *stories* (as shown in the Figma layout).
      - [ ] The little arrow does not need to work when clicked (it will only be possible when we see JavaScript).
      - [ ] There cannot be a visible horizontal *scroll*.
+    
+_____
+
+### Desktop Layout
+
+<img width="1426" alt="Captura de Tela 2022-12-22 às 17 03 57" src="https://user-images.githubusercontent.com/95102911/209216996-d57c78d6-2a2a-4a01-95ae-93aa47d45885.png">
+
+_____
+
+### Desktop Layout Without Sidebar
+
+<img width="468" alt="Captura de Tela 2022-12-22 às 17 10 29" src="https://user-images.githubusercontent.com/95102911/209217945-d848b38a-3556-4343-a1a3-a540cf76d2e9.png">
+
+
+_____
+
+### Mobile Layout
+
+<img width="308" alt="Captura de Tela 2022-12-22 às 17 11 35" src="https://user-images.githubusercontent.com/95102911/209218121-32a2e289-bbb0-4955-a9af-69508263d077.png">
+
+
