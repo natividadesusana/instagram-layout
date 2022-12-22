@@ -163,6 +163,8 @@
   width: 65px;
   height: 65px;
   border-radius: 33px;
+  margin-right: 6px;
+  margin-left: 10px;
 
   display: flex;
   justify-content: center;
