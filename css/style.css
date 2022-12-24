@@ -338,6 +338,8 @@ ion-icon:hover {
   margin-left: 28px;
   margin-top: 40px;
 
+  position: relative;
+
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -346,7 +348,9 @@ ion-icon:hover {
 
 .side-bar-container {
   width: 293px;
-  margin-top: 65px;
+  position: fixed;
+  top: 100px;
+  right: auto;
 }
 
 .container-1 {
@@ -649,7 +653,8 @@ ion-icon:hover {
     align-items: center;
   }
 
-  .ion {
-    color: #000000;
+  .bottom-bar-options-icons-mobile img {
+    width: 22px;
+    height: 22px;
   }
 }
