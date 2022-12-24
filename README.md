@@ -37,7 +37,8 @@ _____
 
 ### Mobile Layout
 
-<img width="305" alt="Captura de Tela 2022-12-22 às 19 17 19" src="https://user-images.githubusercontent.com/95102911/209235212-794ad76a-6898-455d-9797-3620edd36537.png">
+<img width="305" alt="Captura de Tela 2022-12-23 às 23 47 36" src="https://user-images.githubusercontent.com/95102911/209418669-43179426-fdc7-41e3-9d29-68b322986932.png">
+
 
 
 
