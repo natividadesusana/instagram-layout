@@ -1,8 +1,12 @@
-# Project developed for Bootcamp Driven Education
+# Instagram static page layout with html and css
 
-## Instagram static page layout with html and css.
+### *Desktop Layout*
 
-#### Requirements for the project:
+<img width="1423" alt="Captura de Tela 2022-12-22 às 19 06 42" src="https://user-images.githubusercontent.com/95102911/209235142-04203509-9566-43c8-a425-c08122ab74de.png">
+
+____
+
+### Requirements for the project:
 
 - Layout
      - [ ] Apply layout to *desktop*, following layout provided in Figma;
@@ -20,22 +24,16 @@
      - [ ] There should be, in *desktop* mode, a little arrow in the right corner of *stories* (as shown in the Figma layout).
      - [ ] The little arrow does not need to work when clicked (it will only be possible when we see JavaScript).
      - [ ] There cannot be a visible horizontal *scroll*.
-    
-_____
-
-### Desktop Layout
-
-<img width="1423" alt="Captura de Tela 2022-12-22 às 19 06 42" src="https://user-images.githubusercontent.com/95102911/209235142-04203509-9566-43c8-a425-c08122ab74de.png">
 
 _____
 
-### Desktop Layout Without Sidebar
+### *Desktop Layout Without Sidebar*
 
 <img width="466" alt="Captura de Tela 2022-12-22 às 19 16 03" src="https://user-images.githubusercontent.com/95102911/209235158-5fe7ca81-2925-4337-82b2-c51529b5f56a.png">
 
 _____
 
-### Mobile Layout
+### *Mobile Layout*
 
 <img width="305" alt="Captura de Tela 2022-12-23 às 23 47 36" src="https://user-images.githubusercontent.com/95102911/209418669-43179426-fdc7-41e3-9d29-68b322986932.png">
 
