@@ -1,29 +1,34 @@
 # Instagram static page layout with html and css
+This project is a static web page layout inspired by Instagram, created using HTML and CSS. It features a responsive design for both desktop and mobile screens, with different layouts and styles for each.
+
+## About
+The project aims to showcase the use of HTML and CSS to create a responsive web page layout, as well as demonstrate attention to detail in replicating the visual style of Instagram.
+
+## Main features
+- Responsive design for desktop and mobile screens
+- Layout without sidebar for screens smaller than 935px
+- Layout optimized for screens smaller than 614px
+- Use of Ionicons library for icons
+- Stories box with hidden overflow and arrow indicator
+- No visible horizontal scrolling
+
+## Technologies
+This project was created using HTML and CSS. The Ionicons library was used for icons.
+
+## How to run
+To run the project, simply download or clone the repository and open the index.html file in your web browser of choice.
+
+## Demo
+You can see a live demo of this project running on the web by visiting the following link: https://instagram-project-ruddy.vercel.app/
+
+## Next steps
+Future improvements to this project could include adding JavaScript to make the arrow indicator in the stories box functional, as well as implementing additional features inspired by Instagram's layout and design.
+
+_____
 
 ### *Desktop Layout*
 
 <img width="1423" alt="Captura de Tela 2022-12-22 às 19 06 42" src="https://user-images.githubusercontent.com/95102911/209235142-04203509-9566-43c8-a425-c08122ab74de.png">
-
-____
-
-### Requirements for the project:
-
-- Layout
-     - [ ] Apply layout to *desktop*, following layout provided in Figma;
-     - [ ] Apply layout to *mobile*, following layout provided in Figma;
-     - [ ] The layout without *sidebar* must be activated when the screen width is less than 935px;
-     - [ ] The layout for *mobil*e must be activated when the screen width is less than 614px;
-     - [ ] It is not mandatory that the *sidebar* is fixed as the user scrolls down the page as it happens on Instagram (but it is a bonus).
-- Icons
-     - [ ] Use the icons from the library [Ionicons](https://ionicons.com/);
-    
-     💡The **Tips** section contains a tutorial for using the library.
-    
-- Stories
-     - [ ] In the *stories* box, there must be enough items to exceed the width, but the extra items must not be displayed, according to *layout*.
-     - [ ] There should be, in *desktop* mode, a little arrow in the right corner of *stories* (as shown in the Figma layout).
-     - [ ] The little arrow does not need to work when clicked (it will only be possible when we see JavaScript).
-     - [ ] There cannot be a visible horizontal *scroll*.
 
 _____
 
